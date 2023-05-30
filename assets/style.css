@@ -93,7 +93,7 @@ header.name {
 }
 
 #gallery {
-  /*	min-height: 100vh; */
+  /* min-height: 100vh; */
 }
 .title {
   text-align: center;
@@ -325,12 +325,12 @@ input[type="submit"] {
     flex-direction: column;
     padding-inline: 0;
   }
-  header.nav,
-  header.nav ul {
+  header .nav,
+  header .nav ul {
     width: 100%;
     padding: 0 0 0 0;
   }
-  header.nav li {
+  header .nav li {
     flex: 1;
     padding-block: 1em;
     text-align: center;
